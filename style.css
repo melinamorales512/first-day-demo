@@ -1,1 +1,23 @@
-
+ .bio{
+    background-color: lemonchiffon;
+  }
+  .bio p{
+    font-style: italic; font-size: larger;
+  }
+  .bio h2 {font-style: italic;}
+  #email {
+    color: black;
+    background-color: orange;
+  }
+  #email {font-size: larger;}
+  .contact-info{color: blue;}
+  #github {
+    color: black;
+    background-color: lightblue;
+  }
+  #github {font-size: larger;}
+  #portfolio {
+      color: black;
+      background-color: orangered;
+  }
+  #portfolio {font-size: larger;}
